@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528991544754",
+    "project_id": "wehere-ec3f6",
+    "storage_bucket": "wehere-ec3f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528991544754:android:681c577d19f4be6e7b30ab",
+        "android_client_info": {
+          "package_name": "com.example.wehere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528991544754-9vqkp1fncs8nrsfotne2mnjb9oqgfikj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wehere",
+            "certificate_hash": "c3b875fc20c8694560fccc41f47919233484ea93"
+          }
+        },
+        {
+          "client_id": "528991544754-12fvscd4srqi6f6gbkoctqg3lvovhprk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhf3fa7JPTq7lSA6Anb956iP3R7YY_3EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528991544754-12fvscd4srqi6f6gbkoctqg3lvovhprk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
